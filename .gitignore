@@ -1,5 +1,3 @@
-/lib/libsnowboy-detect.a
-snowboy-detect-swig.cc
 snowboydetect.py
 Snowboy.pm
 .DS_Store
@@ -43,10 +41,6 @@ Snowboy.pm
 /swig/Android/jniLibs/
 /swig/Java/java/
 /swig/Java/jniLibs/
-
-/build
-/node_modules
-/lib/node/binding
 
 /dist
 **/snowboy.egg-info
